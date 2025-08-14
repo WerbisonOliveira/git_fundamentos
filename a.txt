@@ -5,3 +5,5 @@ git pull
 Enviando
 funcionalidade
 X
+Nova funcionalidade criada
+funcionalidade Z
